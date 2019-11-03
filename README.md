@@ -2,7 +2,10 @@
 
 # 1. 读书笔记
 
-- [《策略思维——政界、商界及日常生活中的竞争策略》](./Thinking_Strategically.md)；
+- 心理学：
+  - [*How to win friends and influence people & How to stop worrying and start living*，中译本名为《人性的弱点》](./HumanWeakness.md)；
+- 经济学：
+  - [《策略思维——政界、商界及日常生活中的竞争策略》](./Thinking_Strategically.md)；
 
 
 
