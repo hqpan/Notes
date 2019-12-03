@@ -4,6 +4,7 @@
 
 - 心理学：
   - [*How to win friends and influence people & How to stop worrying and start living*，中译本名为《人性的弱点》](./HumanWeakness.md)；
+  - [《乌合之众》](./TheCrowd.md)；
 - 经济学：
   - [《策略思维——政界、商界及日常生活中的竞争策略》](./Thinking_Strategically.md)；
   - [《浪潮之巅》](./TopOfTide.md)；
@@ -22,7 +23,6 @@
     - 《京东平台化数据运营》；
   - 管理与心理学：
     - 《原则》；
-    - 《乌合之众》；
     - 《说谎》；
     - 《卓有成效的管理者》；
     - 《九型人格》；
