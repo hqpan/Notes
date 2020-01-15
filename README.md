@@ -2,14 +2,15 @@
 
 # 1. 读书笔记
 
-- 心理学：
-  - [*How to win friends and influence people & How to stop worrying and start living*，中译本名为《人性的弱点》](./HumanWeakness.md)；
+- 管理学：
+  - [《高效能人士的七个习惯》](./7Habits.md)；
 - 经济学：
   - [《策略思维——政界、商界及日常生活中的竞争策略》](./Thinking_Strategically.md)；
   - [《浪潮之巅》](./TopOfTide.md)；
-- 管理学：
-  - [《高效能人士的七个习惯》](./7Habits.md)；
-
+- 心理学：
+  - [*How to win friends and influence people & How to stop worrying and start living*，中译本名为《人性的弱点》](./HumanWeakness.md)；
+- 文学：
+  - [《如何阅读一本书》](./ReadaBook.md)；
 
 
 # 2. 待阅读书籍
