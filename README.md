@@ -9,6 +9,7 @@
   - [《浪潮之巅》](./TopOfTide.md)；
 - 心理学：
   - [*How to win friends and influence people & How to stop worrying and start living*，中译本名为《人性的弱点》](./HumanWeakness.md)；
+  - [《影响力》](./Influence/Influence.xmind)；
 - 文学：
   - [《如何阅读一本书》](./ReadaBook.md)；
 
@@ -26,3 +27,5 @@
     - 《说谎》；
     - 《卓有成效的管理者》；
     - 《九型人格》；
+- 其它待阅读书单：
+  - 《番茄工作法图解》；
